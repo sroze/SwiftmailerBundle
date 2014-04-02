@@ -1,5 +1,5 @@
 {
-    "name": "symfony/swiftmailer-bundle",
+    "name": "sroze/swiftmailer-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SwiftmailerBundle",
     "keywords": [],
